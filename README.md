@@ -1,2 +1,2 @@
 # Coursera_Capstone
-# This repository is currently using for Applied Data Science Capstone couse on Coursera!
+# This repository is used for Applied Data Science Capstone couse on Coursera!
